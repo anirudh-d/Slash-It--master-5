@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>earth</key>
+	<dict>
+		<key>level1</key>
+		<integer>55</integer>
+		<key>level2</key>
+		<integer>0</integer>
+		<key>level3</key>
+		<integer>0</integer>
+		<key>level4</key>
+		<integer>0</integer>
+		<key>level5</key>
+		<integer>0</integer>
+		<key>level6</key>
+		<integer>0</integer>
+		<key>level7</key>
+		<integer>0</integer>
+		<key>level8</key>
+		<integer>0</integer>
+	</dict>
+	<key>water</key>
+	<dict>
+		<key>level1</key>
+		<integer>50</integer>
+		<key>level2</key>
+		<integer>0</integer>
+		<key>level3</key>
+		<integer>0</integer>
+		<key>level4</key>
+		<integer>0</integer>
+		<key>level5</key>
+		<integer>0</integer>
+		<key>level6</key>
+		<integer>0</integer>
+		<key>level7</key>
+		<integer>0</integer>
+		<key>level8</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>
